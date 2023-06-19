@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Read filecsv")]
+[assembly: AssemblyTitle("Read_write binary file")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Read filecsv")]
+[assembly: AssemblyProduct("Read_write binary file")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("fd8e41b6-664f-4ebe-89c4-9e5f96922c97")]
+[assembly: Guid("005816c3-fab8-459a-8d79-1b7627283556")]
 
 // Version information for an assembly consists of the following four values:
 //

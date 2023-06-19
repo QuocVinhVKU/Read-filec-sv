@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FD8E41B6-664F-4EBE-89C4-9E5F96922C97}</ProjectGuid>
+    <ProjectGuid>{005816C3-FAB8-459A-8D79-1B7627283556}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Read_filecsv</RootNamespace>
-    <AssemblyName>Read filecsv</AssemblyName>
+    <RootNamespace>Read_write_binary_file</RootNamespace>
+    <AssemblyName>Read_write binary file</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
